@@ -39,9 +39,11 @@
 
 ## Output
 ### MechAnalyzer Graph 
-![MechAnalyzer](MechAnalyzer.png)
+<img width="1456" height="906" alt="Screenshot 2025-11-24 114830" src="https://github.com/user-attachments/assets/7aacb8cf-1389-49a4-95c4-3f40bd35a3c5" />
+
 ### VAD, IC and SFA module
-![VAD, IC and SFA module](<VAD, IC and SFA module.png>)
+<img width="1838" height="1070" alt="Screenshot 2025-11-24 114651" src="https://github.com/user-attachments/assets/055bccf4-e923-4b34-9549-ebac82518f13" />
+
 ### Name: OBELESH R
 ### Register Number: 212224040228
 
